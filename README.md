@@ -101,7 +101,7 @@ Follow these steps to roll a dice in-game:
 2. Open qb-core>shared>Items and add:
 
     ```
-   ['dice'] 		 = {['name'] = 'dice', 			['label'] = 'Dice', 		['weight'] = 0, 		['type'] = 'item', 		['image'] = 'dice.png', 			['unique'] = false,     ['useable'] = true, 	   ['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A regular dice.'},	
+   ['zar'] 		 = {['name'] = 'zar', 			['label'] = 'Zar', 		['weight'] = 0, 		['type'] = 'item', 		['image'] = 'dice.png', 			['unique'] = false,     ['useable'] = true, 	   ['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A regular dice.'},	
 	
     ```
 
