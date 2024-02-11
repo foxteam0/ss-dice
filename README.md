@@ -4,7 +4,7 @@ SS-Dice, GTA V için FiveM platformunda bir zar oyununu simüle eder. Oyuncular,
 
 ## Başlangıç
 
-Bu talimatlar, projenin yerel makinenizde nasıl çalıştırılacağı hakkında size yardımcı olacaktır. Daha ayrıntılı açıklamalar için [Dokümantasyon](doc/) bölümüne bakınız.
+Bu talimatlar, projenin yerel makinenizde nasıl çalıştırılacağı hakkında size yardımcı olacaktır. Daha ayrıntılı açıklamalar için [VİDEO]([youtube](https://youtu.be/LYFhqVh9VOs)) bölümüne bakınız.
 
 ### Gereksinimler
 
@@ -68,7 +68,7 @@ SS-Dice simulates a dice game for GTA V on the FiveM platform. Players can roll 
 
 ## Getting Started
 
-These instructions will help you to run the project on your local machine. For more detailed explanations, please refer to the [Documentation](doc/) section.
+These instructions will help you to run the project on your local machine. For more detailed explanations, please refer to the [VİDEO]([youtube](https://youtu.be/LYFhqVh9VOs)) section.
 
 ### Requirements
 
