@@ -52,6 +52,6 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 
-E-posta: email@example.com
+E-posta: serdarsoysal3306@gmail.com
 
 Proje Linki: [GitHub](https://github.com/foxteam0/ss-dice)
